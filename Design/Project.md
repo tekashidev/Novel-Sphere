@@ -1,0 +1,2 @@
+<h1 align="center">This is a design for Novel Sphere</h1>
+<h3 align="center">The photos and the very idea of what the application should look like were generated for me by DALL-E 3 (AI). I made some adjustments and final designed how the Novel Sphere app should look like.</h3>
