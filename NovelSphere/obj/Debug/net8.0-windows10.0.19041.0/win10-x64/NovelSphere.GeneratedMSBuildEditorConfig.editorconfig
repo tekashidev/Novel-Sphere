@@ -12,6 +12,12 @@ build_property.ProjectDir = H:\tekashi.dev\Novel-Sphere\NovelSphere\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[H:/tekashi.dev/Novel-Sphere/NovelSphere/AddBook.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.AddBook.xaml
+build_metadata.AdditionalFiles.TargetPath = AddBook.xaml
+build_metadata.AdditionalFiles.RelativePath = AddBook.xaml
+
 [H:/tekashi.dev/Novel-Sphere/NovelSphere/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.App.xaml
@@ -24,11 +30,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[H:/tekashi.dev/Novel-Sphere/NovelSphere/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Login.xaml
+
 [H:/tekashi.dev/Novel-Sphere/NovelSphere/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[H:/tekashi.dev/Novel-Sphere/NovelSphere/Profile.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.Profile.xaml
+build_metadata.AdditionalFiles.TargetPath = Profile.xaml
+build_metadata.AdditionalFiles.RelativePath = Profile.xaml
+
+[H:/tekashi.dev/Novel-Sphere/NovelSphere/Register.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NovelSphere.Register.xaml
+build_metadata.AdditionalFiles.TargetPath = Register.xaml
+build_metadata.AdditionalFiles.RelativePath = Register.xaml
 
 [H:/tekashi.dev/Novel-Sphere/NovelSphere/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
